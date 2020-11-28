@@ -1,5 +1,9 @@
 ## Desenvolvimento
 
+Link do video no meu Linkedin o funcionamento
+https://www.linkedin.com/feed/update/urn:li:activity:6737161959352885248/
+
+
 
 Usando a biblioteca Streamlit para visualização , desenvolvi um Gerador de senha com intuito de aprendizado pois 
 o no ano 2020 a senha mais usada foi 123456 pelos brasileiros.
