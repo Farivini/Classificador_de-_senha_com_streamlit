@@ -19,6 +19,8 @@ pip install joblib
 
 Após o treinamento salvar o modelo e carregar no def main.
 
+streamlit run *nome_do_seu_codigo*
+
 
 ### Autor
 ---
